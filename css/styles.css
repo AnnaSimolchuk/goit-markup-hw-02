@@ -12,6 +12,7 @@ body {
   color: #212121;
   font-family: Roboto, sans-serif;
   letter-spacing: 0.03em;
+  font-weight: 400;
 }
 
 a {
@@ -108,7 +109,6 @@ a {
 
 .text {
   color: var(--secondary-text-color);
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
 }
@@ -137,7 +137,6 @@ a {
 
 .team-list .role {
   color: var(--secondary-text-color);
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.2;
   text-align: center;
@@ -168,7 +167,6 @@ footer {
 .list .address a {
   color: var(--white-text-color);
   font-style: normal;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
 }
@@ -176,7 +174,6 @@ footer {
 .contact a {
   color: rgba(255, 255, 255, 0.6);
   font-style: normal;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
 }
@@ -190,7 +187,6 @@ footer {
 }
 .copyright {
   color: rgba(255, 255, 255, 0.4);
-  font-weight: 400;
   font-size: 12px;
   line-height: 2;
   text-align: center;

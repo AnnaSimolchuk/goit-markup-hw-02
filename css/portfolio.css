@@ -11,6 +11,7 @@ body {
   color: #212121;
   font-family: Roboto, sans-serif;
   letter-spacing: 0.03em;
+  font-weight: 400;
 }
 
 a {
@@ -88,14 +89,12 @@ a {
 }
 .text {
   color: var(--secondary-text-color);
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.9;
 }
 
 .explanation {
   color: var(--white-text-color);
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.9;
   display: flex;
@@ -127,7 +126,6 @@ footer {
 .list .address a {
   color: var(--white-text-color);
   font-style: normal;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
 }
@@ -135,7 +133,6 @@ footer {
 .contact a {
   color: rgba(255, 255, 255, 0.6);
   font-style: normal;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
 }
@@ -149,7 +146,6 @@ footer {
 }
 .copyright {
   color: rgba(255, 255, 255, 0.4);
-  font-weight: 400;
   font-size: 12px;
   line-height: 2;
   text-align: center;
@@ -178,7 +174,7 @@ footer {
 
 .button-primary:hover,
 .button-primary:focus {
-  color: var(--accent);
+  background-color: var(--accent);
 }
 
 .button-secondary {
