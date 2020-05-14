@@ -61,7 +61,8 @@ a {
   color: var(--accent);
 }
 
-Footer .footer-logo {
+/* Footer  */
+.footer-logo {
   color: var(--accent);
   font-family: Raleway, sans-serif;
   font-size: 26px;
